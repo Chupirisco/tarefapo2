@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yurig\\OneDrive\\Área de Trabalho\\progamação\\computaria\\computaria.csproj",
+      "projectUniqueName": "C:\\Users\\yurig\\OneDrive\\Área de Trabalho\\progamação\\tarefapo2\\computaria.csproj",
       "projectName": "computaria",
-      "projectPath": "C:\\Users\\yurig\\OneDrive\\Área de Trabalho\\progamação\\computaria\\computaria.csproj",
+      "projectPath": "C:\\Users\\yurig\\OneDrive\\Área de Trabalho\\progamação\\tarefapo2\\computaria.csproj",
       "packagesPath": "C:\\Users\\yurig\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yurig\\OneDrive\\Área de Trabalho\\progamação\\computaria\\obj\\",
+      "outputPath": "C:\\Users\\yurig\\OneDrive\\Área de Trabalho\\progamação\\tarefapo2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yurig\\AppData\\Roaming\\NuGet\\NuGet.Config"
